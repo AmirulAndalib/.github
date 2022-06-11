@@ -2,7 +2,7 @@
 
 # ❤ BreakdownsHub Contributors
 
-This is a list of contributors of [ReVanced](revanced.app).
+This is a list of contributors of [BreakdownsHub](https://github.com/BreakdownsHub).
 
 | 🔻 Repo | ❤ Contributors |
 | :---: | --- |
