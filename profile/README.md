@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+Breakdowns+Hub!)](https://git.io/typing-svg)
-
 # ❤ BreakdownsHub Contributors
 
 This is a list of contributors of [BreakdownsHub](https://github.com/BreakdownsHub).
@@ -9,3 +7,11 @@ This is a list of contributors of [BreakdownsHub](https://github.com/BreakdownsH
 | BotStatus  | <a href="https://github.com/BreakdownsHub/BotStatus/graphs/contributors"><img src="https://contrib.rocks/image?repo=BreakdownsHub/BotStatus"/></a> |
 | lk21 | <a href="https://github.com/BreakdownsHub/lk21/graphs/contributors"><img src="https://contrib.rocks/image?repo=BreakdownsHub/lk21"/></a> |
 | megarest-python | <a href="https://github.com/BreakdownsHub/megarest-python/graphs/contributors"><img src="https://contrib.rocks/image?repo=BreakdownsHub/megarest-python"/></a> |
+
+## Contact
+- [Telegram](https://t.me/hafitzXD)
+
+## Donation
+- [Paypal](https://paypal.me/hafitzsetya1)
+- [Saweria](https://saweria.co/Breakdowns) (Only for Indonesia)
+- [Trakteer](https://trakteer.id/breakdowns) (Only for Indonesia)
