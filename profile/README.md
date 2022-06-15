@@ -14,5 +14,5 @@ This is a list of contributors of [BreakdownsHub](https://github.com/BreakdownsH
 
 ## 💰 Donation
 - [Paypal](https://paypal.me/hafitzsetya1)
-- [Saweria](https://saweria.co/Breakdowns) (Only for Indonesia)
-- [Trakteer](https://trakteer.id/breakdowns) (Only for Indonesia)
+- [Saweria](https://saweria.co/Breakdowns)
+- [Trakteer](https://trakteer.id/breakdowns)
